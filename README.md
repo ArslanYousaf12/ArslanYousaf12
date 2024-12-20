@@ -135,15 +135,7 @@ TypeScript               9 repos             ███░░░░░░░░�
   <img src="https://github-profile-trophy.vercel.app/?username=arslanyousaf12&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
 </div>
 
-## 🌐 Connect With Me
-<div align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin]">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-  </a>
-  <a href="mailto:arslanyousaf1232@gmail.com">
-    <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-  </a>
-</div>
+
 
 ---
 
@@ -151,12 +143,3 @@ TypeScript               9 repos             ███░░░░░░░░�
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/arslanyousaf12/arslanyousaf12/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<!-- Spotify Now Playing -->
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" />
-</div>
