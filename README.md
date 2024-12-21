@@ -122,9 +122,11 @@ TypeScript               9 repos             ███░░░░░░░░�
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=arslanyousaf12&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=arslanyousaf12&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=10">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanyousaf12&layout=compact&theme=radical&langs_count=6">
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArslanYousaf12&theme=radical" alt="GitHub Streak" />
