@@ -7,10 +7,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/arslanyousaf1232?tab=followers">
-    <img src="https://img.shields.io/github/followers/arslanyousaf1232?label=Followers&style=social" alt="GitHub Badge">
+  <a href="https://github.com/arslanyousaf12?tab=followers">
+    <img src="https://img.shields.io/github/followers/arslanyousaf12?label=Followers&style=social" alt="GitHub Badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=arslanyousaf1232&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=arslanyousaf12&color=blueviolet" alt="Profile Views">
 </p>
 
 ## 💫 About Me
