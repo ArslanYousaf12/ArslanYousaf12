@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:
@@ -9,18 +9,16 @@ jobs:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Add this line
+      contents: write
     steps:
       - uses: actions/checkout@v2
-      - name: Print Debug Info
-        run: |
-          echo "Feed URL: https://dev.to/feed/arslanyousaf12"
-          curl -s https://dev.to/feed/arslanyousaf12
+      - name: Get Current Time
+        id: current-time
+        run: echo "::set-output name=time::$(date +'%Y-%m-%d %H:%M:%S')"
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/arslanyousaf12"
           max_post_count: "5"
           template: "- [$title]($url)"
-          commit_message: "Updated README with latest blog posts"
+          commit_message: "Updated README with latest blog posts - ${{ steps.current-time.outputs.time }}"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
-          debug: true # Add this line for more debug info
