@@ -24,11 +24,8 @@ I'm a passionate Flutter Engineer with over 2 years of experience in mobile app 
 - 💡 Strong background in both team collaboration and freelance projects
 - 📱 Passionate about creating seamless user experiences
 
-## Latest Blog Posts 📝
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Essential Flutter Widgets Every Developer Should Master](https://dev.to/arslanyousaf12/5-essential-flutter-widgets-every-developer-should-master-2b2d)
-- [Migrating 10k Lines of Code to GoRouter 2.0](https://dev.to/arslanyousaf12/migrating-10k-lines-of-code-from-navigation-10getx-to-gorouter-20-a-case-study-5fi9)
-- [Building a Beautiful Login Screen in Flutter](https://dev.to/arslanyousaf12/building-a-beautiful-login-screen-in-flutter-a-complete-guide-lpc)
 <!-- BLOG-POST-LIST:END -->
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House

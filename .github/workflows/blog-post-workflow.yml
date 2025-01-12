@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/arslanyousaf12"
+          max_post_count: "5"
+          template: "- [$title]($url)"
+          date_format: "yyyy-mm-dd"
+          readme_path: "./README.md"
