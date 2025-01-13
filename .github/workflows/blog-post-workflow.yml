@@ -19,6 +19,6 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/arslanyousaf12"
           max_post_count: "3"
-          template: $newline[$title]($url)
+          template: "$newline$newline$counter. [$title]($url)"
           commit_message: "Updated README with latest blog posts - ${{ steps.current-time.outputs.time }}"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
