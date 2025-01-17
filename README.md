@@ -27,11 +27,11 @@ I'm a passionate Flutter Engineer with over 2 years of experience in mobile app 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-1. [Mastering GitHub Actions: A Comprehensive Guide to Workflow Automation](https://dev.to/arslanyousaf12/mastering-github-actions-a-comprehensive-guide-to-workflow-automation-32b8)
+1. [From Consumer to Contributor: My Developer Journey in 2024](https://dev.to/arslanyousaf12/from-consumer-to-contributor-my-developer-journey-in-2024published-true-19dk)
 
-2. [Journey to Clean Architecture: Wrestling with a 10k Line Flutter Legacy Codebase](https://dev.to/arslanyousaf12/journey-to-clean-architecture-wrestling-with-a-10k-line-flutter-legacy-codebase-59gf)
+2. [Mastering GitHub Actions: A Comprehensive Guide to Workflow Automation](https://dev.to/arslanyousaf12/mastering-github-actions-a-comprehensive-guide-to-workflow-automation-32b8)
 
-3. [Migrating 10k Lines of Code from Navigation 1.0/GetX to GoRouter 2.0: A Case Study](https://dev.to/arslanyousaf12/migrating-10k-lines-of-code-from-navigation-10getx-to-gorouter-20-a-case-study-5fi9)<!-- BLOG-POST-LIST:END -->
+3. [Journey to Clean Architecture: Wrestling with a 10k Line Flutter Legacy Codebase](https://dev.to/arslanyousaf12/journey-to-clean-architecture-wrestling-with-a-10k-line-flutter-legacy-codebase-59gf)<!-- BLOG-POST-LIST:END -->
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
