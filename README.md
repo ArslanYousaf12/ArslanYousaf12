@@ -127,26 +127,107 @@ Dart                     32 repos            ██████████░�
 TypeScript               9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 
 ```
+<h2 align="center">️ Languages-Frameworks-Tools ⚒️</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Futter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=dart" width="45" height="45" alt="dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>Firebase
+    </td>
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
+      <br>Postman
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
+      <br>Java
+    </td>
+   
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=xd" width="45" height="45" alt="adobexd" />
+      <br>Adobe XD
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=appwrite" width="45" height="45" alt="appwrite" />
+      <br>App Write
+    </td>
+     
+               
+  <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+      <br>AWS
+    </td>    
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" />
+      <br>Supabase
+    </td>
+    
+    
+  </tr>
+ 
+</table>
+<br/>
 
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=arslanyousaf12&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanyousaf12&layout=compact&theme=radical&langs_count=6">
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArslanYousaf12&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 🏆 GitHub Trophies
+<h2 align="center">Github Stats and Streaks 📊🔥</h2>
+<br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arslanyousaf12&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
+ <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=arslanyousaf12&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+ <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=arslanyousaf12&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <br/>
+ <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=arslanyousaf12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<!-- activity graph heroku-app start -->
+<p align="center">
+    <a href="https://wakatime.com/@arslanyousaf12">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=arslanyousaf12&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+<div align='center' width='100%'>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslanyousaf12&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  
+</div>
 
 
 ---
