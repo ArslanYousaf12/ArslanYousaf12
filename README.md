@@ -27,11 +27,11 @@ I'm a passionate Flutter Engineer with over 2 years of experience in mobile app 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-1. [Flutter Architecture Patterns: A Developer&#39;s Journey Through MVC, MVP, MVVM, and MVI](https://dev.to/arslanyousaf12/flutter-architecture-patterns-a-developers-journey-through-mvc-mvp-mvvm-and-mvi-bej)
+1. [Will AI Replace Software Engineers? A Reality Check](https://dev.to/arslanyousaf12/will-ai-replace-software-engineers-a-reality-check-4bl3)
 
-2. [From Consumer to Contributor: My Developer Journey in 2024](https://dev.to/arslanyousaf12/from-consumer-to-contributor-my-developer-journey-in-2024published-true-19dk)
+2. [Flutter Architecture Patterns: A Developer&#39;s Journey Through MVC, MVP, MVVM, and MVI](https://dev.to/arslanyousaf12/flutter-architecture-patterns-a-developers-journey-through-mvc-mvp-mvvm-and-mvi-bej)
 
-3. [Mastering GitHub Actions: A Comprehensive Guide to Workflow Automation](https://dev.to/arslanyousaf12/mastering-github-actions-a-comprehensive-guide-to-workflow-automation-32b8)<!-- BLOG-POST-LIST:END -->
+3. [From Consumer to Contributor: My Developer Journey in 2024](https://dev.to/arslanyousaf12/from-consumer-to-contributor-my-developer-journey-in-2024published-true-19dk)<!-- BLOG-POST-LIST:END -->
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
