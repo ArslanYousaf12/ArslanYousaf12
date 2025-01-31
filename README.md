@@ -83,8 +83,8 @@ class AboutMe {
       <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma" />
-      <br>Figma
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Figma" />
+      <br>Python
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
