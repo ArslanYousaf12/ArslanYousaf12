@@ -23,6 +23,7 @@ I'm a passionate Flutter Engineer with over 2 years of experience in mobile app 
 - 🌟 Distinguished academic record with highest CGPA achievement
 - 💡 Strong background in both team collaboration and freelance projects
 - 📱 Passionate about creating seamless user experiences
+- 🧬 Learning Backend Development
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
