@@ -28,11 +28,11 @@ I'm a passionate Flutter Engineer with over 2 years of experience in mobile app 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-1. [From Flutter to Backend: My Chaotic First 48 Hours with Python 🐍](https://dev.to/arslanyousaf12/from-flutter-to-backend-my-chaotic-first-48-hours-with-python-e1j)
+1. [How I Survived Migrating 100k Lines of Flutter Code to Navigator 2.0 &lpar;And What Almost Broke Me&rpar;](https://dev.to/arslanyousaf12/how-i-survived-migrating-100k-lines-of-flutter-code-to-navigator-20-and-what-almost-broke-me-5cil)
 
-2. [I Tested Deepseek R1 Against ChatGPT/Claude for Software Architecture - Here&#39;s the Raw Truth 🔥](https://dev.to/arslanyousaf12/i-tested-deepseek-r1-against-chatgptclaude-for-software-architecture-heres-the-raw-truth-a1i)
+2. [From Flutter to Backend: My Chaotic First 48 Hours with Python 🐍](https://dev.to/arslanyousaf12/from-flutter-to-backend-my-chaotic-first-48-hours-with-python-e1j)
 
-3. [Will AI Replace Software Engineers? A Reality Check](https://dev.to/arslanyousaf12/will-ai-replace-software-engineers-a-reality-check-4bl3)<!-- BLOG-POST-LIST:END -->
+3. [I Tested Deepseek R1 Against ChatGPT/Claude for Software Architecture - Here&#39;s the Raw Truth 🔥](https://dev.to/arslanyousaf12/i-tested-deepseek-r1-against-chatgptclaude-for-software-architecture-heres-the-raw-truth-a1i)<!-- BLOG-POST-LIST:END -->
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
