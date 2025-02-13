@@ -28,11 +28,11 @@ I'm a passionate Flutter Engineer with over 2 years of experience in mobile app 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-1. [Migration Mistakes You should Avoid in Flutter](https://dev.to/arslanyousaf12/-9c0)
+1. [Deep Dive: Flutter 3.29 &amp; Dart 3.7 Complete Guide 🚀🚀](https://dev.to/arslanyousaf12/deep-dive-flutter-329-dart-37-complete-guide-4eod)
 
-2. [How I Survived Migrating 100k Lines of Flutter Code to Navigator 2.0 &lpar;And What Almost Broke Me&rpar;](https://dev.to/arslanyousaf12/how-i-survived-migrating-100k-lines-of-flutter-code-to-navigator-20-and-what-almost-broke-me-5cil)
+2. [Migration Mistakes You should Avoid in Flutter](https://dev.to/arslanyousaf12/-9c0)
 
-3. [From Flutter to Backend: My Chaotic First 48 Hours with Python 🐍](https://dev.to/arslanyousaf12/from-flutter-to-backend-my-chaotic-first-48-hours-with-python-e1j)<!-- BLOG-POST-LIST:END -->
+3. [How I Survived Migrating 100k Lines of Flutter Code to Navigator 2.0 &lpar;And What Almost Broke Me&rpar;](https://dev.to/arslanyousaf12/how-i-survived-migrating-100k-lines-of-flutter-code-to-navigator-20-and-what-almost-broke-me-5cil)<!-- BLOG-POST-LIST:END -->
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
