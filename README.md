@@ -28,11 +28,11 @@ I'm a passionate Flutter Engineer with over 2 years of experience in mobile app 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-1. [Deep Dive: Flutter 3.29 &amp; Dart 3.7 Complete Guide 🚀🚀](https://dev.to/arslanyousaf12/deep-dive-flutter-329-dart-37-complete-guide-4eod)
+1. [SQLite in Flutter: The Complete Guide](https://dev.to/arslanyousaf12/sqlite-in-flutter-the-complete-guide-11nj)
 
-2. [Migration Mistakes You should Avoid in Flutter](https://dev.to/arslanyousaf12/-9c0)
+2. [Deep Dive: Flutter 3.29 &amp; Dart 3.7 Complete Guide 🚀🚀](https://dev.to/arslanyousaf12/deep-dive-flutter-329-dart-37-complete-guide-4eod)
 
-3. [How I Survived Migrating 100k Lines of Flutter Code to Navigator 2.0 &lpar;And What Almost Broke Me&rpar;](https://dev.to/arslanyousaf12/how-i-survived-migrating-100k-lines-of-flutter-code-to-navigator-20-and-what-almost-broke-me-5cil)<!-- BLOG-POST-LIST:END -->
+3. [Migration Mistakes You should Avoid in Flutter](https://dev.to/arslanyousaf12/-9c0)<!-- BLOG-POST-LIST:END -->
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
