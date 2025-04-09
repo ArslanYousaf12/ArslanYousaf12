@@ -28,11 +28,11 @@ I'm a passionate Flutter Engineer with over 2 years of experience in mobile app 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-1. [Design Patterns in Flutter: Solving Common Development Challenges](https://dev.to/arslanyousaf12/design-patterns-in-flutter-solving-common-development-challenges-4l78)
+1. [Flutter Cooking Class: Learn OOP with Dart &lpar;No Fancy Words, I Promise!&rpar; 🍳📱🍔👨🍳](https://dev.to/arslanyousaf12/flutter-cooking-class-learn-oop-with-dart-no-fancy-words-i-promise-59pg)
 
-2. [My 30-Day Social Media Detox: A Software Engineer&#39;s Mindfulness Experiment](https://dev.to/arslanyousaf12/my-30-day-social-media-detox-a-software-engineers-mindfulness-experiment-29ik)
+2. [Design Patterns in Flutter: Solving Common Development Challenges](https://dev.to/arslanyousaf12/design-patterns-in-flutter-solving-common-development-challenges-4l78)
 
-3. [The Silent Fire: My Journey Through Burnout](https://dev.to/arslanyousaf12/the-silent-fire-my-journey-through-burnout-3hma)<!-- BLOG-POST-LIST:END -->
+3. [My 30-Day Social Media Detox: A Software Engineer&#39;s Mindfulness Experiment](https://dev.to/arslanyousaf12/my-30-day-social-media-detox-a-software-engineers-mindfulness-experiment-29ik)<!-- BLOG-POST-LIST:END -->
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
