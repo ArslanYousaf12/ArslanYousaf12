@@ -28,11 +28,11 @@ I'm a passionate Flutter Engineer with over 2 years of experience in mobile app 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 
-1. [How I Optimized API Calls in Flutter to Handle 10,000+ Concurrent Users](https://dev.to/arslanyousaf12/how-i-optimized-api-calls-in-flutter-to-handle-10000-concurrent-users-4kb0)
+1. [Object-Oriented Programming in Python: Complete Crash Course](https://dev.to/arslanyousaf12/object-oriented-programming-in-python-complete-crash-course-210o)
 
-2. [Flutter GetX Tutorial: The Ultimate Beginner’s Guide to Easy State Management](https://dev.to/arslanyousaf12/flutter-getx-tutorial-the-ultimate-beginners-guide-to-easy-state-management-18kg)
+2. [How I Optimized API Calls in Flutter to Handle 10,000+ Concurrent Users](https://dev.to/arslanyousaf12/how-i-optimized-api-calls-in-flutter-to-handle-10000-concurrent-users-4kb0)
 
-3. [8 Flutter State Management Patterns Every Developer Must Know &lpar;2025 Complete Guide&rpar;](https://dev.to/arslanyousaf12/8-flutter-state-management-patterns-every-developer-must-know-2025-complete-guide-2gla)<!-- BLOG-POST-LIST:END -->
+3. [Flutter GetX Tutorial: The Ultimate Beginner’s Guide to Easy State Management](https://dev.to/arslanyousaf12/flutter-getx-tutorial-the-ultimate-beginners-guide-to-easy-state-management-18kg)<!-- BLOG-POST-LIST:END -->
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
