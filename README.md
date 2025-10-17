@@ -16,7 +16,7 @@
 ## 💫 About Me
 <img align="right" height="150" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
 
-I'm a passionate Flutter Engineer with over 2 years of experience in mobile app development. Currently crafting scalable mobile solutions at APPSOL360, I've had the privilege of building apps that serve millions of users. My journey includes:
+I'm a passionate Flutter Engineer with over 6 years of experience in mobile app development. Currently crafting scalable mobile solutions at APPSOL360, I've had the privilege of building apps that serve millions of users. My journey includes:
 
 - 🚀 Led development of multiple cross-platform applications with 1M+ downloads
 - 🎯 Expertise in Flutter, Firebase, and RESTful APIs
